@@ -44,7 +44,7 @@ This project is apart of the Hardhat FreeCodeCamp video.
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
+git clone https://github.com/Furqan558/Hardhat-Fund-Me
 cd hardhat-fund-me-fcc
 yarn
 ```
